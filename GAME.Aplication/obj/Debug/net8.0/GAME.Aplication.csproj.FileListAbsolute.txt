@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\bin\Debug\net8.0\GAME.Aplication.deps.json
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\bin\Debug\net8.0\GAME.Aplication.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\bin\Debug\net8.0\GAME.Aplication.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\bin\Debug\net8.0\GAME.Domain.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\bin\Debug\net8.0\GAME.Service.Domain.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\bin\Debug\net8.0\GAME.Service.Domain.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\bin\Debug\net8.0\GAME.Domain.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\GAME.Aplication.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\GAME.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\GAME.Aplication.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\GAME.Aplication.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\GAME.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\GAME.Apl.CD8C172C.Up2Date
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\GAME.Aplication.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\refint\GAME.Aplication.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\GAME.Aplication.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Aplication\obj\Debug\net8.0\ref\GAME.Aplication.dll
