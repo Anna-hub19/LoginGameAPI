@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SISGH.API.props" />
+</Project>

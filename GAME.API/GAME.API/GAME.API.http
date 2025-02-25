@@ -1,0 +1,6 @@
+@SISGH.API_HostAddress = http://localhost:5025
+
+GET {{SISGH.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
