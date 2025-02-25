@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\bin\Debug\net8.0\GAME.Domain.deps.json
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\bin\Debug\net8.0\GAME.Domain.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\bin\Debug\net8.0\GAME.Domain.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\obj\Debug\net8.0\GAME.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\obj\Debug\net8.0\GAME.Domain.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\obj\Debug\net8.0\GAME.Domain.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\obj\Debug\net8.0\GAME.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\obj\Debug\net8.0\GAME.Domain.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\obj\Debug\net8.0\refint\GAME.Domain.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\obj\Debug\net8.0\GAME.Domain.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Domain\obj\Debug\net8.0\ref\GAME.Domain.dll
