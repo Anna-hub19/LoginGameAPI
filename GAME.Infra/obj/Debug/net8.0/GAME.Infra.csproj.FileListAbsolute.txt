@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\bin\Debug\net8.0\GAME.Infra.deps.json
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\bin\Debug\net8.0\GAME.Infra.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\bin\Debug\net8.0\GAME.Infra.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\bin\Debug\net8.0\GAME.Domain.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\bin\Debug\net8.0\GAME.Domain.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\GAME.Infra.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\GAME.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\GAME.Infra.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\GAME.Infra.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\GAME.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\GAME.Infra.csproj.Up2Date
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\GAME.Infra.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\refint\GAME.Infra.dll
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\GAME.Infra.pdb
+C:\Users\Acer\source\repos\SISGH\SISGH.Infra\obj\Debug\net8.0\ref\GAME.Infra.dll
